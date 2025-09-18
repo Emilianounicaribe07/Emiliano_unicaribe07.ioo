@@ -1,6 +1,6 @@
-# Site settings
+# Site settings dragarace
 title:dragerace
-email:240300675@ucaribe.edu
+email:240300675@ucaribe.edu.mx
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
