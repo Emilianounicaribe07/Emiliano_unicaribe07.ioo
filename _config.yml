@@ -1,7 +1,7 @@
 # Site settings
 title: dragerace
 email: 240300675@ucaribe.edu.mx
-description: > #/blog l:"
+description: > #/blog
 baseurl: "" # un elemento/blog/
 url: "" # dragerace.me 
 
