@@ -2,8 +2,8 @@
 title: dragerace
 email: 240300675@ucaribe.edu.mx
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site 
+baseurl: "" # un elemento/blog/
+url: "" # dragerace.me 
 
 twitter_username: juianche07
 github_username: Emilianoucaribe07
