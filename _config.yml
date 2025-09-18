@@ -1,7 +1,7 @@
 # Site settings
 title: dragerace
 email: 240300675@ucaribe.edu.mx
-description: > # this means to ignore newlines until "baseurl:"
+description: > #/blog l:"
 baseurl: "" # un elemento/blog/
 url: "" # dragerace.me 
 
